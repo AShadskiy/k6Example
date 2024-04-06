@@ -1,0 +1,13 @@
+{
+  "queries": {
+    "getProfile": "",
+    "getDrop": "",
+    "dropActivate": "",
+    "dropDeactivate": "",
+    "getOrders": "",
+    "getOrdersArchive": "",
+    "payoutOrderConfirm": "",
+    "payoutOrderFail": "",
+    "depositOrderConfirm": ""
+  }
+}

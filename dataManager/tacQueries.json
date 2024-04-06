@@ -1,0 +1,10 @@
+{
+  "queries": {
+    "getTickets": "",
+    "ticketTransition": "",
+    "payoutOrderTransition": "",
+    "depositOrderToPay": "",
+    "depositOrderTransition": "",
+    "getTicket": ""
+  }
+}
